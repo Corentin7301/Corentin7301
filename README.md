@@ -22,7 +22,11 @@
 
 ****************
 
-[![Corentin stats](https://github-readme-stats.vercel.app/api?username=Corentin7301)](https://portfolio.corentinperroux.fr)
-
+<a href="https://portfolio.corentinperroux.fr">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=corentin7301&show_icons=true&title_color=f58033&text_color=fff&icon_color=fff&bg_color=232323&border_radius=10" />
+</a>
+<a href="https://portfolio.corentinperroux.fr">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corentin7301&layout=compact&title_color=f58033&text_color=fff&icon_color=fff&bg_color=232323&border_radius=10" />
+</a>
 
 [website]:https://portfolio.corentinperroux.fr
