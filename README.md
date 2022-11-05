@@ -1,4 +1,4 @@
-[![Corentin Perroux](https://res.cloudinary.com/corentin7301/image/upload/v1667660612/portfolio2/banniere_pdp_t3exfh.jpg)](https://portfolio.corentinperroux.fr/)
+[![Corentin Perroux](https://res.cloudinary.com/corentin7301/image/upload/v1667660612/portfolio2/banniere_pdp_2_vhsyav)](https://portfolio.corentinperroux.fr/)
 
 
 
