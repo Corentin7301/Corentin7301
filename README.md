@@ -1,4 +1,6 @@
-[![Corentin Perroux](https://res.cloudinary.com/corentin7301/image/upload/v1612346672/Corentin7301/Corentin7301_hmwqkx.jpg)](https://portfolio.corentinperroux.fr/)
+[![Corentin Perroux](https://res.cloudinary.com/corentin7301/image/upload/v1667660612/portfolio2/banniere_pdp_t3exfh.jpg)](https://portfolio.corentinperroux.fr/)
+
+
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat&duration=4000&pause=400&color=FF7B1F&center=true&lines=Junior+web+developer" alt="Typing SVG" /></a>
